@@ -6,9 +6,9 @@
 
 html,
 body {
-  background-color: rgb(183, 219, 240);
+  background-color: #1b1b32;
 
-};
+}
 
 .App {
   display: flex;
@@ -16,7 +16,19 @@ body {
   align-items: center;
   justify-content: center;
   padding-top: 15px;
-  
+  font-family: sans-serif;
+}
 
+.freecodecamp-logo-contenedor {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+
+}
+
+.freecodecamp-logo {
+  height: 50px;
 }
 
