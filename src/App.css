@@ -6,7 +6,7 @@
 
 html,
 body {
-  background-color: #1b1b32;
+  background-color: #b5b5bd;
 
 }
 
@@ -32,3 +32,13 @@ body {
   height: 50px;
 }
 
+.contenedor-principal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
